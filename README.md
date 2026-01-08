@@ -43,13 +43,13 @@ While my coursework provides the theoretical foundation (Algorithms, Data Struct
 | **🧠 Local AI Lab** | A private, offline AI chat environment running on Zorin OS using Ollama/Alpaca. | **Python, Linux** |
 | **⚡ System Utilities** | Various CLI tools and algorithms built to master memory management and pointers. | **C Language** |
 
----
-
-### 📊 GitHub Analytics
+---### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiimwe-dev&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+
 
 ---
 
