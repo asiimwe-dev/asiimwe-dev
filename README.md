@@ -39,7 +39,7 @@ While my coursework provides the theoretical foundation (Algorithms, Data Struct
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🤖 Entebbe Airport Assistant** | A customer-interactive chatbot deployed to assist travelers with real-time flight data. | **Node.js, NLP** |
+| **🤖 Entebbe Airport Assistant** | A customer-interactive chatbot deployed to assist travelers with real-time flight data. | **HTML, CSS, JS** |
 | **🧠 Local AI Lab** | A private, offline AI chat environment running on Zorin OS using Ollama/Alpaca. | **Python, Linux** |
 | **⚡ System Utilities** | Various CLI tools and algorithms built to master memory management and pointers. | **C Language** |
 
