@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/gilbert-asiimwe">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:asimgilbs744@gmail.com">
+  <a href="mailto:gilbertasiimwe00@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-teal?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
