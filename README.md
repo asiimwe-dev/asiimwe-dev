@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Bridging Academia and Industry
+### Bridging Academia and Industry
 I am a Computer Science student passionate about bridging the gap between low-level system architecture and modern, AI-driven applications. 
 
 While my university coursework roots me deeply in the fundamentals (Data Structures, Algorithms, Memory Management in C), I spend my time outside the classroom building production-ready skill sets. My goal is to master the entire software lifecycle—from managing the infrastructure that runs an application to deploying the machine learning models that power it.
@@ -23,7 +23,7 @@ While my university coursework roots me deeply in the fundamentals (Data Structu
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
