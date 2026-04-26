@@ -7,25 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gilbert-asiimwe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gilbert-asiimwe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:gilbertasiimwe00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="48" alt="Email" /></a>
+  <a href="mailto:gilbertasiimwe00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Email" /></a>
 </p>
 
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<br>
 
 ### 👤 About Me
 I am a Computer Science student and an aspiring `AI/ML Full-Stack Engineer` and `Systems Engineer`. I am focused on bridging low-level system architecture with modern, AI-driven applications. I am a strong advocate for open-source software and cybersecurity. My objective is to master how systems work and how we can leverage technology to solve real world problems in Africa and beyond.
 
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<br>
 
 ### Technical Arsenal
 
@@ -38,11 +30,7 @@ I am a Computer Science student and an aspiring `AI/ML Full-Stack Engineer` and 
 | **DevOps** | <img src="https://img.shields.io/badge/docker-%230073ec.svg?style=flat&logo=docker&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="35"> |
 | **Cloud** | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" height="35"> |
 
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<br>
 
 ### Featured Projects
 
@@ -54,26 +42,18 @@ I am a Computer Science student and an aspiring `AI/ML Full-Stack Engineer` and 
 | **Entebbe Airport Assistant** | Automated chatbot assisting travelers with real-time flight data and inquiries. | `Node.js`, `JS` |
 | **Local AI Lab** | Private, offline AI chat environment running on Fedora using secure inference. | `Ollama`, `Linux` |
 
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<br>
 
 ### Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiimwe-dev&theme=radical&area=true&bg_color=000000&border_color=00ffff&radius=10" width="85%" style="border-radius: 10px;" alt="Activity Graph" />
-  <br><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=radical&bg_color=000000&border_color=00ffff&border_radius=10" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=radical&background=000000&border_color=00ffff&border_radius=10" height="165" />
 </div>
 
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<br>
 
 ### Engagement & Contributions
 <div align="center">
