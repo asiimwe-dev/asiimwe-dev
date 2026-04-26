@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gilbert-asiimwe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" /></a>
-  <a href="mailto:gilbertasiimwe00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gilbert-asiimwe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="55" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:gilbertasiimwe00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="55" alt="Email" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -23,12 +24,12 @@ I am a Computer Science student and an aspiring `AI/ML Full-Stack Engineer` and 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Foundations** | <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="28"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="28"> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white" height="28"> |
-| **Web Dev** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="28"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="28"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="28"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="28"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28"> |
-| **Mobile & APIs** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="28"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" height="28"> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" height="28"> |
-| **AI & ML** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="28"> <img src="https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white" height="28"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="28"> |
-| **DevOps** | <img src="https://img.shields.io/badge/docker-%230073ec.svg?style=flat&logo=docker&logoColor=white" height="28"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" height="28"> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" height="28"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28"> |
-| **Cloud** | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" height="28"> <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" height="28"> |
+| **Foundations** | <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="35"> &nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white" height="35"> |
+| **Web Dev** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="35"> &nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="35"> |
+| **Mobile & APIs** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" height="35"> |
+| **AI & ML** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/Ollama-black?style=flat&logo=ollama&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="35"> |
+| **DevOps** | <img src="https://img.shields.io/badge/docker-%230073ec.svg?style=flat&logo=docker&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="35"> |
+| **Cloud** | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" height="35"> &nbsp; <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" height="35"> |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -47,10 +48,10 @@ I am a Computer Science student and an aspiring `AI/ML Full-Stack Engineer` and 
 ### Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiimwe-dev&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="85%" style="border-radius: 10px;" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asiimwe-dev&theme=radical&area=true&hide_border=true&bg_color=000000" width="85%" style="border-radius: 10px;" alt="Activity Graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=radical&bg_color=000000&border_color=00ffff&border_radius=10" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=radical&background=000000&border=00ffff&border_radius=10" height="165" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
