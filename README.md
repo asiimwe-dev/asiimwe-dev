@@ -43,9 +43,9 @@
     </td>
     <td width="50%" valign="top">
       <h3>System Metrics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=transparent&title_color=00D1FF&text_color=FFFFFF&icon_color=00D1FF&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=transparent&title_color=00D1FF&text_color=777777&icon_color=00D1FF&hide_border=true" width="100%" />
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=transparent&stroke=00D1FF&fire=00D1FF&ring=FFFFFF&currStreakLabel=00D1FF&sideNums=FFFFFF&sideLabels=FFFFFF&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=transparent&stroke=00D1FF&fire=00D1FF&ring=00D1FF&currStreakLabel=00D1FF&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
