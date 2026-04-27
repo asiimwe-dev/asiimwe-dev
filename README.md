@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://asiimwe-dev.github.io/">
     <img src="https://img.shields.io/badge/Resume-00D1FF?style=for-the-badge&logo=googledrive&logoColor=black" height="40" />
   </a>
 </p>
