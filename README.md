@@ -11,16 +11,20 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/asiimwe-dev">
+    <img src="https://img.shields.io/github/followers/asiimwe-dev?label=Followers&style=for-the-badge&logo=github&color=00D1FF&logoColor=white" height="45" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/gilbert-asiimwe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
   </a>
   &nbsp;
   <a href="mailto:gilbertasiimwe00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
   </a>
   &nbsp;
   <a href="https://asiimwe-dev.github.io/">
-    <img src="https://img.shields.io/badge/Resume-00D1FF?style=for-the-badge&logo=googledrive&logoColor=black" height="40" />
+    <img src="https://img.shields.io/badge/Resume-00D1FF?style=for-the-badge&logo=googledrive&logoColor=black" height="45" />
   </a>
 </p>
 
