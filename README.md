@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=42&center=true&vCenter=true&width=700&height=100&duration=3500&lines=Gilbert+Asiimwe;Systems+Engineer;AI/ML+Full-Stack+Engineer&color=00D1FF" alt="Header" />
 </h1>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asiimwe-dev&theme=dracula&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA" width="850" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=22&center=true&vCenter=true&width=300&height=40&duration=4000&lines=Let's+Connect!&color=00D1FF" alt="Connect Animation" />
 </p>
