@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=42&center=true&vCenter=true&width=700&height=100&duration=3500&lines=Gilbert+Asiimwe;Systems+Engineer;AI/ML+Full-Stack+Engineer&color=00D1FF" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=42&center=true&vCenter=true&width=700&height=100&duration=3500&lines=Gilbert+Asiimwe;Systems+Engineer;DevOps/Platform+Engineer&color=00D1FF" alt="Header" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Executive Summary</h3>
-      <p>Computer Science student bridging the gap between <b>low-level system architecture</b> and <b>modern AI ecosystems</b>. Focused on developing secure, scalable, and high-performance applications.</p>
+      <p>Computer Science student bridging the gap between <b>low-level system architecture</b> and <b>modern AI ecosystems</b>. Focused on developing secure, scalable, and high-performance systems.</p>
       <br>
       <h3>Technical Arsenal</h3>
       <p>
