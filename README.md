@@ -38,6 +38,8 @@
           <img src="https://skillicons.dev/icons?i=c,java,linux,py,tensorflow,postgres,mongodb&theme=dark" height="48" />
           <br>
           <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,docker,aws,githubactions&theme=dark" height="48" />
+          <br>
+          <img src="https://skillicons.dev/icons?i=git,go,mysql,vscode,azure,postman,kali&theme=dark" height="48" />
         </a>
       </p>
     </td>
