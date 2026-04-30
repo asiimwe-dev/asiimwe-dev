@@ -58,7 +58,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📂 FarmCom — AI Agriculture</h4>
+      <h4>📂 FarmLink UG — AI Agriculture</h4>
       <p>Agri-tech platform utilizing AI-driven diagnostics for crop management.</p>
       <small><b>Stack:</b> Python • Flutter • ML</small>
     </td>
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📂 PetroStack — Data Intelligence</h4>
+      <h4>📂 PetroStack UG — Data Intelligence</h4>
       <p>Data visualization and API ecosystem for the petroleum industry.</p>
       <small><b>Stack:</b> Data Engineering • API Design</small>
     </td>
