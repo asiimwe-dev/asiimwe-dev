@@ -45,9 +45,14 @@
     </td>
     <td width="50%" valign="top">
       <h3>System Metrics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=transparent&title_color=00D1FF&text_color=777777&icon_color=00D1FF&hide_border=true" width="100%" />
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=asiimwe-dev&show_icons=true&bg_color=0d1117&title_color=00D1FF&text_color=777777&icon_color=00D1FF&hide_border=true" width="100%" />
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=transparent&stroke=00D1FF&fire=00D1FF&ring=00D1FF&currStreakLabel=00D1FF&hide_border=true" width="100%" />
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asiimwe-dev&layout=compact&bg_color=0d1117&title_color=00D1FF&text_color=777777&hide_border=true" width="100%" />
+      <br>
+      <!-- Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=dark&background=0d1117&stroke=00D1FF&fire=00D1FF&ring=00D1FF&currStreakLabel=00D1FF&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
