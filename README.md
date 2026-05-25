@@ -63,8 +63,8 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📂 FarmLink UG — AI Agriculture</h4>
-      <p>Agri-tech platform utilizing AI-driven diagnostics for crop management.</p>
+      <h4>📂 FarmerHub UG — AI Agriculture</h4>
+      <p>Agri-tech platform utilizing AI-driven diagnostics and tracability for crop management.</p>
       <small><b>Stack:</b> Python • Flutter • ML</small>
     </td>
     <td width="50%" valign="top">
