@@ -33,13 +33,34 @@
       <p>Computer Science student bridging the gap between <b>low-level system architecture</b> and <b>modern AI ecosystems</b>. Focused on developing secure, scalable, and high-performance systems.</p>
       <br>
       <h3>Technical Arsenal</h3>
+      <h4>Core Languages</h4>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,java,linux,py,tensorflow,postgres,mongodb&theme=dark" height="48" />
-          <br>
-          <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,docker,aws,githubactions&theme=dark" height="48" />
-          <br>
-          <img src="https://skillicons.dev/icons?i=git,go,mysql,vscode,azure,postman,kali&theme=dark" height="48" />
+          <img src="https://skillicons.dev/icons?i=c,java,py,dart,go&theme=dark" height="40" />
+        </a>
+      </p>
+      <h4>Frameworks & Runtimes</h4>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tensorflow&theme=dark" height="40" />
+        </a>
+      </p>
+      <h4>Databases</h4>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" />
+        </a>
+      </p>
+      <h4>Cloud, Containerization & CI/CD</h4>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions&theme=dark" height="40" />
+        </a>
+      </p>
+      <h4>Systems & Development Tools</h4>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode,postman&theme=dark" height="40" />
         </a>
       </p>
     </td>
@@ -64,7 +85,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📂 FarmerHub UG — AI Agriculture</h4>
-      <p>Agri-tech platform utilizing AI-driven diagnostics and tracability for crop management.</p>
+      <p>Agri-tech platform utilizing AI-driven diagnostics and traceability for crop management.</p>
       <small><b>Stack:</b> Python • Flutter • ML</small>
     </td>
     <td width="50%" valign="top">
