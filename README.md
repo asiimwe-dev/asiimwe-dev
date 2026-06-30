@@ -101,9 +101,9 @@
       <small><b>Stack:</b> Data Engineering • API Design</small>
     </td>
     <td width="50%" valign="top">
-      <h4>📂 Local AI Lab — LLM Ops</h4>
-      <p>Secure offline inference environment running on Fedora/Ollama.</p>
-      <small><b>Stack:</b> Linux • LLM Ops • Security</small>
+      <h4>📂 SoveriegnGate — Secure Auth</h4>
+      <p>A zero-trust, Public Financial Management(PFM) security MVP, designed to protect national treasury payouts combined with real-time cryptographic integrity monitoring.</p>
+      <small><b>Stack:</b> Python • Shamir’s Secret Sharing (SSS) • Security</small>
     </td>
   </tr>
 </table>
