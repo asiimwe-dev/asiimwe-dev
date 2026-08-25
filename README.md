@@ -60,7 +60,7 @@
       <h4>Systems & Development Tools</h4>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode,postman&theme=dark" height="40" />
+          <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode,postman,neovim&theme=dark" height="40" />
         </a>
       </p>
     </td>
