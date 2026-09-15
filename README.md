@@ -1,111 +1,117 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&center=true&vCenter=true&width=700&height=100&duration=3500&lines=Gilbert+Asiimwe;Systems+Engineer;AI+Full-Stack+Engineer&color=00FFA3" alt="Header" />
-</h1>
-
+<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&center=true&vCenter=true&width=300&height=40&duration=4000&lines=Let's+Connect!&color=00FFA3" alt="Connect Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFA3&height=160&section=header&text=Gilbert%20Asiimwe&fontSize=46&fontColor=0A0E1A&fontAlignY=42&desc=Systems%20%2B%20AI%20Engineer&descAlignY=68&descSize=18&animation=twinkling" width="100%" alt="Header"/>
 </p>
 
+<!-- ==================== TYPING INTRO ==================== -->
 <p align="center">
-  <a href="https://github.com/asiimwe-dev">
-    <img src="https://img.shields.io/github/followers/asiimwe-dev?label=Followers&style=for-the-badge&logo=github&color=00FFA3&logoColor=white" height="45" />
-  </a>
-  &nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00FFA3&center=true&vCenter=true&width=700&lines=I+build+systems+that+think;Low-level+architecture+%E2%86%92+AI+ecosystems;Secure.%20Scalable.%20Intelligent.;Computer+Science+%7C+Systems+%7C+AI" alt="Typing SVG"/>
+</p>
+
+<!-- ==================== SOCIAL + VIEWS ==================== -->
+<p align="center">
   <a href="https://www.linkedin.com/in/gilbert-asiimwe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
   &nbsp;
   <a href="mailto:gilbert.asiimwe.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
   &nbsp;
   <a href="https://asiimwe-dev.github.io/">
-    <img src="https://img.shields.io/badge/Resume-00FFA3?style=for-the-badge&logo=readthedocs&logoColor=white" height="45" />
+    <img src="https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=readthedocs&logoColor=0A0E1A" height="28"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=asiimwe-dev&label=Profile%20views&color=00FFA3&style=for-the-badge" height="28"/>
+</p>
+
+<br>
+
+<!-- ==================== ABOUT ==================== -->
+<h3 align="center">Who I Am</h3>
+
+<p align="center">
+  I live at the intersection of <b>systems engineering</b> and <b>artificial intelligence</b>.<br>
+  Most people choose one side — I deliberately build across both.<br><br>
+  I care about performance at the metal, correctness under pressure,<br>
+  and systems that can reason. Currently studying Computer Science<br>
+  while shipping real systems that scale and think.
+</p>
+
+<br>
+
+<!-- ==================== SKILLS ==================== -->
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py,dart,go,flutter,react,nodejs,tensorflow,fastapi,postgres,mysql,mongodb,redis,docker,aws,azure,githubactions,kubernetes,linux,fedora,neovim,zsh,git,vscode,postman&theme=dark&perline=13" alt="Skills"/>
   </a>
 </p>
 
----
+<br>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>System Status: <span style="color: #00FFA3;">Online</span></h3>
-      <p>Computer Science student bridging the gap between <b>low-level system architecture</b> and <b>modern AI ecosystems</b>. Focused on developing secure, scalable, and high-performance systems.</p>
-      <br>
-      <h3>Technical Arsenal</h3>
-      <h4>Core Languages</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,java,py,dart,go&theme=dark" height="40" />
-        </a>
-      </p>
-      <h4>Frameworks & Runtimes</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tensorflow&theme=dark" height="40" />
-        </a>
-      </p>
-      <h4>Databases</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" />
-        </a>
-      </p>
-      <h4>Cloud, Containerization & CI/CD</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions&theme=dark" height="40" />
-        </a>
-      </p>
-      <h4>Systems & Development Tools</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,fedora,neovim,zsh,git,vscode,postman&theme=dark" height="40" />
-        </a>
-      </p>
-      <br>
-      <h3>Current Setup</h3>
-      <ul>
-        <li><b>Editor:</b> Neovim</li>
-        <li><b>OS:</b> Fedora</li>
-        <li><b>Shell:</b> Zsh</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=asiimwe-dev&show_icons=true&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&icon_color=00FFA3&hide_border=true" width="100%" />
-      <br>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asiimwe-dev&layout=compact&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&hide_border=true" width="100%" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiimwe-dev&theme=dark&background=0A0E1A&stroke=00FFA3&fire=00FFA3&ring=00FFA3&currStreakLabel=00FFA3&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- ==================== STATS ==================== -->
+<h3 align="center">Live Pulse</h3>
 
----
-
-### Engineering Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asiimwe-dev/asiimwe-dev/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=dark&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&icon_color=00FFA3&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiimwe-dev&layout=compact&theme=dark&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
----
-
-### Matrix Dashboard
 <p align="center">
-  <img src="metrics.svg" alt="GitHub Metrics Dashboard" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=asiimwe-dev&theme=dark&background=0A0E1A&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&hide_border=true" width="460" alt="GitHub Streak"/>
 </p>
 
----
+<br>
 
-### 🤝 Contributions & Engagement
-<div align="center">
-  <p>I am actively looking for <b>collaborations</b> in Open Source, <b>Systems Engineering</b>, and <b>AI Research</b>.</p>
-  <p>
-    <a href="https://github.com/asiimwe-dev?tab=repositories"><b>Explore Projects</b></a> • 
-    <a href="https://github.com/asiimwe-dev/asiimwe-dev/issues"><b>Report Issues</b></a> • 
-    <a href="mailto:gilbert.asiimwe.dev@gmail.com"><b>Request Collaboration</b></a>
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFA3&height=60&section=footer" width="100%"/>
-  <br>
-  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
-</div>
+<!-- ==================== SNAKE ==================== -->
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asiimwe-dev/asiimwe-dev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asiimwe-dev/asiimwe-dev/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/asiimwe-dev/asiimwe-dev/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</p>
+
+<br>
+
+<!-- ==================== METRICS ==================== -->
+<h3 align="center">Metrics</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asiimwe-dev/asiimwe-dev/main/metrics.svg" alt="GitHub Metrics Dashboard" width="100%"/>
+</p>
+
+<br>
+
+<!-- ==================== CTA ==================== -->
+<h3 align="center">Let’s Build</h3>
+
+<p align="center">
+  Open to collaborations in <b>systems engineering</b>, <b>AI infrastructure</b>, and ambitious open-source work.
+</p>
+
+<p align="center">
+  <a href="https://github.com/asiimwe-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Projects-00FFA3?style=for-the-badge&logo=github&logoColor=0A0E1A" height="32"/>
+  </a>
+  &nbsp;
+  <a href="mailto:gilbert.asiimwe.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Start_a_Conversation-00FFA3?style=for-the-badge&logo=gmail&logoColor=0A0E1A" height="32"/>
+  </a>
+</p>
+
+<br>
+
+<!-- ==================== FOOTER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFA3&height=90&section=footer&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&fontSize=16&fontColor=0A0E1A&animation=fadeIn" width="100%" alt="Footer"/>
+</p>
+
+<p align="center">
+  <i>— Alan Kay</i>
+</p>
