@@ -15,13 +15,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          template: terminal
-          base: header, activity, community, repositories, metadata
-          plugin_topics: yes
-          plugin_topics_limit: 10
-          plugin_stargazers: yes
-          plugin_stargazers_limit: 10
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
+          template: classic
+          base: ""
+          config_timezone: Africa/Kampala
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
