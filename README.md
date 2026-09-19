@@ -20,10 +20,10 @@
   </a>
   &nbsp;
   <a href="https://asiimwe-dev.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=readthedocs&logoColor=0A0E1A" height="28"/>
+    <img src="https://img.shields.io/badge/Portfolio-00A368?style=for-the-badge&logo=readthedocs&logoColor=white" height="28"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=asiimwe-dev&label=Profile%20views&color=00FFA3&style=for-the-badge" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=asiimwe-dev&label=Profile%20views&color=00A368&style=for-the-badge" height="28"/>
 </p>
 
 <br>
@@ -104,7 +104,11 @@
 
 <!-- ==================== CTA ==================== -->
 <p align="center">
+  <a href="https://github.com/asiimwe-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Projects-00A368?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  </a>
+  &nbsp;
   <a href="mailto:gilbert.asiimwe.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Initialize_Connection-00FFA3?style=for-the-badge&logo=minutemailer&logoColor=0A0E1A" height="32"/>
+    <img src="https://img.shields.io/badge/Initialize_Connection-00A368?style=for-the-badge&logo=minutemailer&logoColor=white" height="32"/>
   </a>
 </p>
