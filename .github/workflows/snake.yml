@@ -8,10 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: output
           fetch-depth: 0
 
       - uses: Platane/snk@v3

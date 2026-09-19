@@ -55,9 +55,9 @@
 <h3 align="center">Live Pulse</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=dark&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&icon_color=00FFA3&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=asiimwe-dev&show_icons=true&theme=dark&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&icon_color=00FFA3&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiimwe-dev&layout=compact&theme=dark&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asiimwe-dev&layout=compact&theme=dark&bg_color=0A0E1A&title_color=00FFA3&text_color=E2E8F0&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 <p align="center">

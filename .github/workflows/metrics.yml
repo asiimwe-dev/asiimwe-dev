@@ -8,38 +8,20 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          base: header, activity, community, repositories, topics, stargazers, contributions
-          plugins: |
-            - base:
-                avatar: true
-                bio: true
-                name: true
-                company: true
-                location: true
-                website: true
-            - activity:
-                commits: 365
-                iso: true
-                days: 14
-            - community:
-                issues: 10
-                prs: 10
-            - repositories:
-                limit: 8
-                starred: 3
-            - topics:
-                limit: 10
-            - stargazers:
-                limit: 10
-            - contributions:
-                referer: true
-          options: |
-            --user asiimwe-dev
-            --render stats
-            --template terminal
-            --color-scheme dark
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          plugin_topics: yes
+          plugin_topics_limit: 10
+          plugin_stargazers: yes
+          plugin_stargazers_limit: 10
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
