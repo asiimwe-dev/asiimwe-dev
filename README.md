@@ -6,7 +6,7 @@
 
 <!-- ==================== TYPING INTRO ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=I+build+systems+that+think.;Low-level+architecture+%E2%86%92+AI+ecosystems.;Secure.+Scalable.+Intelligent.;Computer+Science+%7C+Systems+%7C+AI" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=Creating+an+Impact+with+software.;Passionate+about+Autonomous+Systems.;Secure.+Scalable.+Intelligent." alt="Typing SVG"/>
 </p>
 
 <!-- ==================== SOCIAL LINKS ==================== -->
@@ -29,15 +29,10 @@
 <br>
 
 <!-- ==================== THE CONSOLE (ABOUT) ==================== -->
-<h3 align="center">System Overview</h3>
+<h3 align="center">About Me</h3>
 
 <div align="center">
-  <p>I am a software engineer specializing at the intersection of <b>low-level systems</b> and <b>artificial intelligence</b>.<br>
-  While many choose to focus strictly on application development or model training, I deliberately build across the entire stack—ensuring<br>
-  that intelligent systems are backed by highly performant, scalable, and secure infrastructure.</p>
-  
-  <p>My work is driven by a deep care for <i>performance at the metal</i>, <i>correctness under pressure</i>, and architectures<br>
-  that can reason autonomously. I spend my time shipping production-grade distributed systems and optimizing AI deployment pipelines.</p>
+  <p>I am a computer science student at Mbarara University of Science and Technology. I am passionate about building systems that solve real world problems and the help create an impact to the society. <br>
 </div>
 
 <br>
@@ -77,17 +72,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=asiimwe-dev&background=00000000&stroke=00FFA3&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" width="70%" alt="GitHub Streak"/>
 </p>
-
-<br>
-
-<!-- ==================== 3D SYSTEM ACTIVITY ==================== -->
-<h3 align="center">Commit Topography</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asiimwe-dev/asiimwe-dev/main/metrics.svg" alt="3D Isometric Calendar" width="70%"/>
-</p>
-
-<br>
 
 <!-- ==================== SNAKE ==================== -->
 <h3 align="center">Contribution Snake</h3>
